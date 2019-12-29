@@ -70,4 +70,4 @@ function helpCommand(arguments, receivedMessage) {
 
 
 
-client.login(process.env.token)
+client.login("NjYwODQ4NTAxODU2NDAzNDc2.XgkC2w.MRWBR-OVtGUPhWiHkgUqm0cppH4")
